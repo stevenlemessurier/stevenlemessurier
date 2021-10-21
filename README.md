@@ -1,0 +1,4 @@
+- 👋 Hi, I’m stevenlemessurier
+- 👀 My passion is android development and learning new skills to improve my projects
+- 🌱 Currently, I'm a senior computer science major at USF 
+- 📫 I can be reached by email at stevenlemessurier@yahoo.com
