@@ -1,3 +1,4 @@
-- 👋 Hi, I’m stevenlemessurier
+- 👋 Hi, I’m stevenlemessurier. I use this Github account for personal projects. But since graduating, growing a family, and putting all my effort into my full time job as a Senior Android Developer, I've been unable to find the free time to keep up with these projects 😢.
+- 🛠️ Published projects of mine can be found on [Google Play](https://play.google.com/store/apps/dev?id=6228128771967242901)
 - 👀 My passion is android development and learning new skills to improve my projects!
 - 📫 I can be reached by email at stevenlemessurier@yahoo.com
